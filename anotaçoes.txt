@@ -7,3 +7,12 @@ mostra os status
 
 ls
 mostra a lista
+
+git add .
+para adicionar o arquivo para o controle de versão
+
+git commit -m "Inclusão das anotações do desafio de GIt/GitHub"
+
+
+
+
