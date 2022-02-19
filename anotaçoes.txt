@@ -1,0 +1,9 @@
+comandos do git
+
+git clone <link>
+
+git status
+mostra os status
+
+ls
+mostra a lista
